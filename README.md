@@ -4,6 +4,7 @@ I belong to the October 2019 cohort for "Global Certificate in Data Science & AI
 1. EDA - Loan Prediction Problem 
 2. ML - House Prediction Problem
 3. DAR - Big Mart Sales
+4. ML - Breast Cancer Classification
 ---
 ### Glossary:
 
