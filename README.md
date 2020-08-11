@@ -6,7 +6,7 @@ I belong to the October 2019 cohort for "Global Certificate in Data Science & AI
 3. DAR - Big Mart Sales
 ---
 ### Glossary:
----
+
 1. EDA - Exploratory Data Analysis
 2. ML - Machine Learning
 3. DAR - Data Analytics with R
